@@ -2,7 +2,7 @@
 
 ## Identitas
 - **Nama:** Putri Hailda Ainur Rifala Al Isnaini  
-- **NIM:** (07352311059)
+- **NPM:** (07352311059)
 
 ## Deskripsi Program
 Program ini dibuat menggunakan bahasa Dart untuk menghitung **gaji bersih karyawan** berdasarkan:
