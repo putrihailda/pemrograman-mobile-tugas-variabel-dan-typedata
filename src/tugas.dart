@@ -51,7 +51,7 @@ void main(List<String> args) {
   print("Nama: $name");
   print("Jam kerja per minggu: $jamKerjaPerMinggu");
   print("Upah per jam: Rp$upahPerJam");
-  print("Status karyawan: ${statusKaryawan ? "Tetap" : "Kontrak"}");
+  print("Status karyawan : ${statusKaryawan ? "Tetap" : "Kontrak"}");
   print("Gaji Kotor: Rp$gajiKotor");
   print("Pajak: Rp$pajak");
   print("Gaji Bersih (setelah pajak): Rp$gajiBersih");
